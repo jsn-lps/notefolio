@@ -24,24 +24,5 @@ def test_api():
     return {"message": "big ol' test API CALL"}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def do_something():
     return 5
